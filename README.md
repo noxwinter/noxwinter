@@ -79,7 +79,7 @@
 
 ## 🎖 My Badges
 
-[![Holopin](https://files.catbox.moe/l1sasw.png)](https://noxwinter.io.vn)
+[![Holopin](https://i.ibb.co/6chh8zCy/68747470733a2f2f686f6c6f70696e2e6d652f6164697479616b616e6f69.png)](https://noxwinter.io.vn)
 
 <br/>
 
