@@ -1,15 +1,5 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&center=true&vCenter=true&width=435&lines=Hello!;I'm+Nox;A+Crazy+Developer." alt="Typing SVG" />
-  </a>
-</p>
+![Nox Banner](https://files.catbox.moe/tkgjh1.png)
 <hr/>
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,11 +9,11 @@
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at noxwinterofficial@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://noxwinter.io.vn) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://files.catbox.moe/4oxf8v.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -79,9 +69,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<a href="noxwinter.io.vn"><img src="https://img.shields.io/badge/noxwinter.io.vn-ffffff?style=flat&logo=googlechrome&logoColor=white&color=black"/></a>
+<a href="https://discord.com/users/1447958498552975420"><img src="https://img.shields.io/badge/Noxwinter-ffffff?style=flat&logo=discord&logoColor=white&color=black"/></a>
+<a href="mailto:noxwinterofficial@gmail.com"><img src="https://img.shields.io/badge/Noxwinter-ffffff?style=flat&logo=gmail&logoColor=white&color=black"/></a>
